@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metro Project</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <h1>Metro Project</h1>
+  </div>
+  <div class="clock" id="clock"></div>
+</header>
+
+<main>
+  <!-- search bar + some logic -->
+  <div class="side">
+
+    <section class="block">
+      <h2>Journey</h2>
+      <div class="swap-row">
+        <div class="fields">
+          <label for="fromInput">From</label>
+          <input list="stationList" id="fromInput" type="text" placeholder="e.g. Roppongi" value="Roppongi">
+          <label for="toInput">To</label>
+          <input list="stationList" id="toInput" type="text" placeholder="e.g. Asakusa" value="Asakusa">
+        </div>
+        <button class="swap" id="swapBtn" title="Swap">⇅</button>
+      </div>
+      <datalist id="stationList"></datalist>
+
+      <div class="pax-row">
+        <div class="opt" style="flex:1">
+          <label>Fare type</label>
+          <div class="toggle-group" id="fareToggle">
+            <button data-v="adult_ic" class="active">Adult IC</button>
+            <button data-v="adult_ticket">Adult Ticket</button>
+            <button data-v="children_ic">Child IC</button>
+            <button data-v="children_ticket">Child Ticket</button>
+          </div>
+        </div>
+      </div>
+
+      <button class="go" id="findBtn">Find fastest routes</button>
+      <div class="hint">Fare follows the shortest-route-in-km rule. Journeys that transfer at Kuramae, Higashi-Nihombashi or Bakuro-yokoyama are split-fared; journeys touching the Sakura Tram use its flat combination fare.</div>
+    </section>
+
+    <section class="block" id="resultsBlock">
+      <h2>Top routes</h2>
+      <div id="results"><div class="empty-state">Pick two stations and search.</div></div>
+    </section>
+
+  </div>
+
+  <!-- maps & some details -->
+  <div style="display:flex;flex-direction:column;min-height:0;">
+    <div class="map-wrap" style="flex:1;">
+      <div id="map"></div>
+      <div class="map-controls">
+        <div class="toggle-group" id="baseToggle">
+          <button data-v="normal" class="active">Map</button>
+          <button data-v="satellite">Satellite</button>
+        </div>
+      </div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <div class="detail-panel" id="detailPanel">
+      <div class="empty-state">Click a station on the map, or a route card, for details.</div>
+    </div>
+  </div>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

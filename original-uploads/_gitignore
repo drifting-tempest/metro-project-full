@@ -1,0 +1,16 @@
+# This is a comment - Git will skip this line
+
+# Ignore a specific file
+graph_node.cpython-310.pyc
+
+# Ignore an entire folder (add a trailing slash)
+__pycache__/
+
+# Ignore all files ending with .log or .tmp
+*.log
+*.tmp
+*.pyc
+
+
+# Un-ignore a specific file even if its folder is ignored
+#!important.log

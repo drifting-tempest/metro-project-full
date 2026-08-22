@@ -1,0 +1,7 @@
+--- How to invoke a function in differnet py file
+
+from metro import same_line
+metro is the file name the fucntion is
+same_line is the function name
+
+---

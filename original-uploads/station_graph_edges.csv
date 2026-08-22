@@ -1,0 +1,145 @@
+Station A,Station B,distance,railway
+Minowabashi,Arakawa-itchumae,0.2969,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawa-itchumae,Arakawakuyakushomae,0.2532,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawakuyakushomae,Arakawa-nichome,0.4353,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawa-nichome,Arakawa-nanachome,0.3752,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawa-nanachome,Machiya-ekimae,0.3144,Toei Tokyo Sakura Tram (Arakawa Line)
+Machiya-ekimae,Machiya-nichome,0.4232,Toei Tokyo Sakura Tram (Arakawa Line)
+Machiya-nichome,Higashi-ogu-sanchome,0.2982,Toei Tokyo Sakura Tram (Arakawa Line)
+Higashi-ogu-sanchome,Kumanomae,0.4817,Toei Tokyo Sakura Tram (Arakawa Line)
+Kumanomae,Miyanomae,0.3624,Toei Tokyo Sakura Tram (Arakawa Line)
+Miyanomae,Odai,0.4084,Toei Tokyo Sakura Tram (Arakawa Line)
+Odai,Arakawa-yuenchimae,0.3815,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawa-yuenchimae,Arakawa-shakomae,0.4569,Toei Tokyo Sakura Tram (Arakawa Line)
+Arakawa-shakomae,Kajiwara,0.4692,Toei Tokyo Sakura Tram (Arakawa Line)
+Kajiwara,Sakaecho,0.4592,Toei Tokyo Sakura Tram (Arakawa Line)
+Sakaecho,Oji-ekimae,0.4417,Toei Tokyo Sakura Tram (Arakawa Line)
+Oji-ekimae,Asukayama,0.3259,Toei Tokyo Sakura Tram (Arakawa Line)
+Asukayama,Takinogawa-itchome,0.3585,Toei Tokyo Sakura Tram (Arakawa Line)
+Takinogawa-itchome,Nishigahara-yonchome,0.4215,Toei Tokyo Sakura Tram (Arakawa Line)
+Nishigahara-yonchome,Shin-koshinzuka,0.4083,Toei Tokyo Sakura Tram (Arakawa Line)
+Shin-koshinzuka,Koshinzuka,0.1858,Toei Tokyo Sakura Tram (Arakawa Line)
+Koshinzuka,Sugamoshinden,0.4597,Toei Tokyo Sakura Tram (Arakawa Line)
+Sugamoshinden,Otsuka-ekimae,0.5158,Toei Tokyo Sakura Tram (Arakawa Line)
+Otsuka-ekimae,Mukohara,0.4748,Toei Tokyo Sakura Tram (Arakawa Line)
+Mukohara,Higashi-ikebukuro-yonchome,0.5436,Toei Tokyo Sakura Tram (Arakawa Line)
+Higashi-ikebukuro-yonchome,Toden-zoshigaya,0.2743,Toei Tokyo Sakura Tram (Arakawa Line)
+Toden-zoshigaya,Kishibojimmae,0.4591,Toei Tokyo Sakura Tram (Arakawa Line)
+Kishibojimmae,Gakushuinshita,0.5261,Toei Tokyo Sakura Tram (Arakawa Line)
+Gakushuinshita,Omokagebashi,0.4003,Toei Tokyo Sakura Tram (Arakawa Line)
+Omokagebashi,Waseda,0.4555,Toei Tokyo Sakura Tram (Arakawa Line)
+Nishi-magome,Magome,1.2016,Toei Asakusa Line
+Magome,Nakanobu,0.9586,Toei Asakusa Line
+Nakanobu,Togoshi,1.0453,Toei Asakusa Line
+Togoshi,Gotanda,1.5482,Toei Asakusa Line
+Gotanda,Takanawadai,0.7938,Toei Asakusa Line
+Takanawadai,Sengakuji,1.1635,Toei Asakusa Line
+Sengakuji,Mita,1.0886,Toei Asakusa Line
+Mita,Daimon,1.328,Toei Asakusa Line
+Daimon,Shimbashi,1.0363,Toei Asakusa Line
+Shimbashi,Higashi-ginza,0.8817,Toei Asakusa Line
+Higashi-ginza,Takaracho,0.7578,Toei Asakusa Line
+Takaracho,Nihombashi,0.7711,Toei Asakusa Line
+Nihombashi,Ningyocho,0.7723,Toei Asakusa Line
+Ningyocho,Higashi-nihombashi,0.6844,Toei Asakusa Line
+Higashi-nihombashi,Asakusabashi,0.6114,Toei Asakusa Line
+Asakusabashi,Kuramae,0.7478,Toei Asakusa Line
+Kuramae,Asakusa,0.8235,Toei Asakusa Line
+Asakusa,Honjo-azumabashi,0.7103,Toei Asakusa Line
+Honjo-azumabashi,Oshiage,0.8158,Toei Asakusa Line
+Meguro,Shirokanedai,1.0635,Toei Mita Line
+Shirokanedai,Shirokane-takanawa,0.9656,Toei Mita Line
+Shirokane-takanawa,Mita,1.4524,Toei Mita Line
+Mita,Shibakoen,0.6204,Toei Mita Line
+Shibakoen,Onarimon,0.7452,Toei Mita Line
+Onarimon,Uchisaiwaicho,1.018,Toei Mita Line
+Uchisaiwaicho,Hibiya,0.9207,Toei Mita Line
+Hibiya,Otemachi,0.8654,Toei Mita Line
+Otemachi,Jimbocho,1.3164,Toei Mita Line
+Jimbocho,Suidobashi,0.9454,Toei Mita Line
+Suidobashi,Kasuga,0.6958,Toei Mita Line
+Kasuga,Hakusan,1.355,Toei Mita Line
+Hakusan,Sengoku,0.9355,Toei Mita Line
+Sengoku,Sugamo,0.9101,Toei Mita Line
+Sugamo,Nishi-sugamo,1.3817,Toei Mita Line
+Nishi-sugamo,Shin-itabashi,0.9896,Toei Mita Line
+Shin-itabashi,Itabashi-kuyakushomae,0.9208,Toei Mita Line
+Itabashi-kuyakushomae,Itabashihoncho,1.1796,Toei Mita Line
+Itabashihoncho,Motohasunuma,0.8551,Toei Mita Line
+Motohasunuma,Shimura-sakaue,1.0648,Toei Mita Line
+Shimura-sakaue,Shimura-sanchome,0.8571,Toei Mita Line
+Shimura-sanchome,Hasune,0.9734,Toei Mita Line
+Hasune,Nishidai,0.6313,Toei Mita Line
+Nishidai,Takashimadaira,1.0577,Toei Mita Line
+Takashimadaira,Shin-takashimadaira,0.6771,Toei Mita Line
+Shin-takashimadaira,Nishi-takashimadaira,0.8003,Toei Mita Line
+Nippori,Nishi-nippori,0.6111,Toei Nippori-Toneri Liner
+Nishi-nippori,Akado-shogakkomae,1.018,Toei Nippori-Toneri Liner
+Akado-shogakkomae,Kumanomae,0.6319,Toei Nippori-Toneri Liner
+Kumanomae,Adachi-odai,0.6847,Toei Nippori-Toneri Liner
+Adachi-odai,Ogi-ohashi,1.0294,Toei Nippori-Toneri Liner
+Ogi-ohashi,Koya,0.4944,Toei Nippori-Toneri Liner
+Koya,Kohoku,0.6241,Toei Nippori-Toneri Liner
+Kohoku,Nishiaraidaishi-nishi,0.8404,Toei Nippori-Toneri Liner
+Nishiaraidaishi-nishi,Yazaike,0.8092,Toei Nippori-Toneri Liner
+Yazaike,Toneri-koen,0.8448,Toei Nippori-Toneri Liner
+Toneri-koen,Toneri,1.0348,Toei Nippori-Toneri Liner
+Toneri,Minumadai-shinsuikoen,0.9859,Toei Nippori-Toneri Liner
+Tochomae,Shinjuku-nishiguchi,0.6579,Toei Oedo Line
+Shinjuku-nishiguchi,Higashi-shinjuku,0.9078,Toei Oedo Line
+Higashi-shinjuku,Wakamatsu-kawada,0.9677,Toei Oedo Line
+Wakamatsu-kawada,Ushigome-yanagicho,0.6328,Toei Oedo Line
+Ushigome-yanagicho,Ushigome-kagurazaka,0.9926,Toei Oedo Line
+Ushigome-kagurazaka,Iidabashi,0.8754,Toei Oedo Line
+Iidabashi,Kasuga,0.8977,Toei Oedo Line
+Kasuga,Hongo-sanchome,0.7339,Toei Oedo Line
+Hongo-sanchome,Ueno-okachimachi,1.1592,Toei Oedo Line
+Ueno-okachimachi,Shin-okachimachi,0.8028,Toei Oedo Line
+Shin-okachimachi,Kuramae,0.9236,Toei Oedo Line
+Kuramae,Ryogoku,1.0843,Toei Oedo Line
+Ryogoku,Morishita,0.99,Toei Oedo Line
+Morishita,Kiyosumi-shirakawa,0.6212,Toei Oedo Line
+Kiyosumi-shirakawa,Monzen-nakacho,1.115,Toei Oedo Line
+Monzen-nakacho,Tsukishima,1.425,Toei Oedo Line
+Tsukishima,Kachidoki,0.8137,Toei Oedo Line
+Kachidoki,Tsukijishijo,1.1373,Toei Oedo Line
+Tsukijishijo,Shiodome,0.6353,Toei Oedo Line
+Shiodome,Daimon,0.8327,Toei Oedo Line
+Daimon,Akabanebashi,1.0742,Toei Oedo Line
+Akabanebashi,Azabu-juban,0.7109,Toei Oedo Line
+Azabu-juban,Roppongi,0.9629,Toei Oedo Line
+Roppongi,Aoyama-itchome,1.2013,Toei Oedo Line
+Aoyama-itchome,Kokuritsu-kyogijo,1.1296,Toei Oedo Line
+Kokuritsu-kyogijo,Yoyogi,1.2463,Toei Oedo Line
+Yoyogi,Shinjuku,0.5986,Toei Oedo Line
+Shinjuku,Tochomae,0.6204,Toei Oedo Line
+Tochomae,Nishi-shinjuku-gochome,0.7387,Toei Oedo Line
+Nishi-shinjuku-gochome,Nakano-sakaue,0.9013,Toei Oedo Line
+Nakano-sakaue,Higashi-nakano,1.0313,Toei Oedo Line
+Higashi-nakano,Nakai,0.8063,Toei Oedo Line
+Nakai,Ochiai-minami-nagasaki,1.0885,Toei Oedo Line
+Ochiai-minami-nagasaki,Shin-egota,1.5453,Toei Oedo Line
+Shin-egota,Nerima,1.5186,Toei Oedo Line
+Nerima,Toshimaen,0.6988,Toei Oedo Line
+Toshimaen,Nerima-kasugacho,1.3402,Toei Oedo Line
+Nerima-kasugacho,Hikarigaoka,1.2978,Toei Oedo Line
+Shinjuku,Shinjuku-sanchome,0.8091,Toei Shinjuku Line
+Shinjuku-sanchome,Akebonobashi,1.4103,Toei Shinjuku Line
+Akebonobashi,Ichigaya,1.3825,Toei Shinjuku Line
+Ichigaya,Kudanshita,1.3536,Toei Shinjuku Line
+Kudanshita,Jimbocho,0.5658,Toei Shinjuku Line
+Jimbocho,Ogawamachi,0.7722,Toei Shinjuku Line
+Ogawamachi,Iwamotocho,0.7854,Toei Shinjuku Line
+Iwamotocho,Bakuro-yokoyama,0.8216,Toei Shinjuku Line
+Bakuro-yokoyama,Hamacho,0.5645,Toei Shinjuku Line
+Hamacho,Morishita,0.8065,Toei Shinjuku Line
+Morishita,Kikukawa,0.8533,Toei Shinjuku Line
+Kikukawa,Sumiyoshi,0.8759,Toei Shinjuku Line
+Sumiyoshi,Nishi-ojima,0.9498,Toei Shinjuku Line
+Nishi-ojima,Ojima,0.7664,Toei Shinjuku Line
+Ojima,Higashi-ojima,1.1336,Toei Shinjuku Line
+Higashi-ojima,Funabori,1.6583,Toei Shinjuku Line
+Funabori,Ichinoe,1.7008,Toei Shinjuku Line
+Ichinoe,Mizue,1.6009,Toei Shinjuku Line
+Mizue,Shinozaki,1.4962,Toei Shinjuku Line
+Shinozaki,Motoyawata,2.7807,Toei Shinjuku Line
